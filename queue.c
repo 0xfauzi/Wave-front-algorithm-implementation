@@ -7,6 +7,7 @@ int rear=0; int front=0;
 
 Cell queue[MAP_AREA*2];
 
+
 void enQueue(int x, int y);
 void deQueue();
 void display();
